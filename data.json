@@ -1,20 +1,20 @@
 [
   {
-    "namat":"berlin",
-    "namak":"293010349"
+    "name":"berlin",
+    "population":"293010349"
   },
   {
-    "namat":"berlin1",
-    "namak":"293010349"
+    "name":"berlin1",
+    "population":"293010349"
   },
   {
-    "namat":"berlin2",
-    "namak":"293010349"
+    "name":"berlin2",
+    "population":"293010349"
   },
   {
-    "namat":"berlin3",
-    "namak":"293010349"
-  },
+    "name":"berlin3",
+    "population":"293010349"
+  }
 ]
 
 
