@@ -1,19 +1,39 @@
 [
   {
-    "namat":"berlin",
-    "population":"293010349"
+    "namat":"albert",
+    "namak":"budi",
+    "imei":"29301034924124",
+    "produk":"iphone x",
+    "deskripsi":"layar pecah",
+    "analisa":"kaca only",
+    "repair":"ganti kaca"
   },
   {
-    "namat":"berlin1",
-    "population":"293010349"
+    "namat":"albert",
+    "namak":"budi",
+    "imei":"29301034924124",
+    "produk":"iphone x",
+    "deskripsi":"layar pecah",
+    "analisa":"kaca only",
+    "repair":"ganti kaca"
   },
   {
-    "namat":"berlin2",
-    "population":"293010349"
+    "namat":"albert",
+    "namak":"budi",
+    "imei":"29301034924124",
+    "produk":"iphone x",
+    "deskripsi":"layar pecah",
+    "analisa":"kaca only",
+    "repair":"ganti kaca"
   },
   {
-    "namat":"berlin3",
-    "population":"293010349"
+    "namat":"albert",
+    "namak":"budi",
+    "imei":"29301034924124",
+    "produk":"iphone x",
+    "deskripsi":"layar pecah",
+    "analisa":"kaca only",
+    "repair":"ganti kaca"
   }
 ]
 
